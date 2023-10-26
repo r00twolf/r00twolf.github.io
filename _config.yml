@@ -1,8 +1,6 @@
 title: r00t_wolf
-header_pages:
-  - r00t_wolf
+theme: jekyll-theme-console
 
-remote_theme: b2a3e8/jekyll-theme-console
 style: hacker
 plugins:
   - jekyll-feed
